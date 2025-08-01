@@ -1,0 +1,13 @@
+# Ignora a pasta do ambiente virtual
+env/
+
+# Ignora arquivos de ambiente (.env)
+.env
+
+# Outros arquivos/diretórios comuns a ignorar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.venv/
